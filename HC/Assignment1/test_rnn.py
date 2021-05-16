@@ -149,10 +149,10 @@ def main():
     train_auroc, train_auprc = evaluation(train_dataloader, model, device)
     test_auroc, test_auprc = evaluation(test_dataloader, model, device)
 
-    text_to_record = str(20213207) + '\n' + str(train_auroc) + '\n' \
+    text_to_record = str(train_auroc) + '\n' \
         + str(train_auprc) + '\n' + str(test_auroc) + '\n' + str(test_auprc)
 
-    with open('./20213207_rnn.txt', 'w') as f:
+    with open('./rnn.txt', 'w') as f:
         f.write(text_to_record)
     f.close()
 

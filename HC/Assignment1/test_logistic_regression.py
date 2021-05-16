@@ -20,10 +20,10 @@ def main():
     test_auroc = roc_auc_score(y_test, lr_model.predict_proba(X_test)[:,1])
     test_auprc = average_precision_score(y_test, lr_model.predict_proba(X_test)[:,1])
 
-    text_to_record = str(20213207) + '\n' + str(train_auroc) + '\n' \
+    text_to_record = str(train_auroc) + '\n' \
         + str(train_auprc) + '\n' + str(test_auroc) + '\n' + str(test_auprc)
 
-    with open('./20213207_logistic_regression.txt', 'w') as f:
+    with open('./logistic_regression.txt', 'w') as f:
         f.write(text_to_record)
     f.close()
 
