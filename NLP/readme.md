@@ -4,7 +4,7 @@
 ---  
 
 ### Assignment1: Text Classification with RNNs  
-- Task: Make Baseline, RNN, and LSTM model from scratch using Pytorch  
+- Task: Make Baseline, RNN, and LSTM models (with variants) from scratch using Pytorch  
   ```  
   * Self-Reflection *
   1. Should have used 'DataLoader' to load minibatch faster (Bottleneck happened due to the absence of DataLoader)
