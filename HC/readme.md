@@ -1,4 +1,4 @@
-## Machine Learning for Healthcare
+## AI612: Machine Learning for Healthcare  
 
 ### Assignment1: ICU Mortality Prediction  
 - Predicted mortality following the guideline of Assignment1  
