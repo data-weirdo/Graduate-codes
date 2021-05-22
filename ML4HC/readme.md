@@ -2,7 +2,7 @@
 
 ### Assignment1: ICU Mortality Prediction  
 - Predicted mortality following the guideline of Assignment1  
-- Used GRU & logistic regression to measure performacne   
+- Used GRU & logistic regression to measure performance   
 - Didn't upload 6 data files due to file size issue in github.  
 
   ```  
