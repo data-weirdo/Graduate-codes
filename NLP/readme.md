@@ -33,3 +33,5 @@
   2. Need to concentrate on some details to improve performance. (Quite familiar with overall API, but lack details.
   3. Need to study a series of LM methodologies introduced in HuggingFace document.  
   ```  
+### Final Project (with Seongjun, Yang)  
+- DPR + Back-translation  
