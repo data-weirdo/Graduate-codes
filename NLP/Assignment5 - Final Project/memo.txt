@@ -1,0 +1,8 @@
+20204396 Seongjun Yang (양성준)
+20213207 Seungwoo Ryu (류승우)
+
+DPR 폴더에서 train_dense_encoder.py , dpr/options.py, dpr/models/biencoder.py 코드들만 조금 손봐서 저희 method들 구현했습니다.
+DPR 폴더에서 train.sh 스크립트로 트레이닝을 실행하였습니다.
+DPR 폴더에서 test.ipynb를 통해 passage retrieval, Exact Matching score를 구하였습니다. (기존의 baseline으로 주신 jupyter 파일이랑 구성이 거의 비슷합니다.)  
+그리고 전반적으로 https://github.com/seominjoon/DPR 해당 GitHub 세팅을 참고했습니다.
+
