@@ -23,3 +23,13 @@
   
 ### Assignment3: Paper writing assignment  
 - No codes attached.  
+
+### Assignment4: Sequence and Token Classification with BERT  
+- Task: Sequence and Token Classification on the same tasks which were supposed on Assignment1, 2  
+- Now I am quite familiar with `HuggingFace`, but what I should do from now on is as below:
+
+  ```  
+  1. Need to study low-level 'methods' in HuffingFace API.
+  2. Need to concentrate on some details to improve performance. (Quite familiar with overall API, but lack details.
+  3. Need to study a series of LM methodologies introduced in HuggingFace document.  
+  ```  
