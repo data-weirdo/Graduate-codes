@@ -46,3 +46,16 @@
     python main.py
     ```  
     
+---   
+
+### Assignment3: Image Classification  
+- Multi-label Image classification using MIMIC-CXR (Chest X-Ray data)  
+- ResNet-50 as a baseline  
+- Didn't upload 3 files due to file size issue in github.  
+
+  ```  
+  * Droped files *
+  - X_train.pkl
+  - X_test.pkl
+  - y_train.txt
+  ```  
