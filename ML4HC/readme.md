@@ -6,7 +6,7 @@
 - Didn't upload 6 data files due to file size issue in github.  
 
   ```  
-  * Droped Files * 
+  * Dropped Files * 
   X_train_rnn.npy
   X_train_logistic.npy
   y_train.npy
@@ -23,7 +23,7 @@
 - Didn't upload 7 data files due to file size issue in github.  
 
   ```  
-  * Droped files *
+  * Dropped files *
   - X_train.pickle  
   - X_test.pickle
   - y_train.txt
@@ -54,7 +54,7 @@
 - Didn't upload 3 files due to file size issue in github.  
 
   ```  
-  * Droped files *
+  * Dropped files *
   - X_train.pkl
   - X_test.pkl
   - y_train.txt
