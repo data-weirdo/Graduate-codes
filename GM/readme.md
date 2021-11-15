@@ -8,3 +8,7 @@
 
 - Motif and Graphs  
 
+### Assignment3: Implementing SIR algorithm  
+
+- SIR
+
