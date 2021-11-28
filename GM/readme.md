@@ -8,7 +8,10 @@
 
 - Motif and Graphs  
 
-### Assignment3: Implementing SIR algorithm  
+### Assignment3: Implementing SIR Algorithm  
 
 - SIR
 
+### Assignment4: Implementing Loopy BP Algorithm  
+
+- Loopy BP algorithm
