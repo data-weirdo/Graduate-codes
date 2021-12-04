@@ -15,3 +15,10 @@
 ### Assignment4: Implementing Loopy BP Algorithm  
 
 - Loopy BP algorithm
+
+----
+
+## Graph Mining Project
+
+- Same Author Detection Problem
+
