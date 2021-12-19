@@ -1,0 +1,1 @@
+{"emb_dim": 256, "ffn_dim": 512, "attention_heads": 8, "dropout": 0.25, "encoder_layers": 4, "decoder_layers": 4, "lr": 0.001, "batch_size": 1000, "nepochs": 100, "patience": 10}
