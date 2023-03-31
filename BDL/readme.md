@@ -1,15 +1,16 @@
 ## Bayesian ML Assignments
 
 - Assignment1
-  - Hand-written assignment
+  - Hand-written assignment solving mathematics
+  - Deliberately deleted because there appears my Student ID.
+
 - Assignment2
-  - Coding Assingment 
+  - Coding Assignment 
   - Related to `Sampling`
 
 - Assignment3
+  - Coding Assignment
   - Related to 'HMC & SMC'
-  - I spent hard time at understanding SMC, and even now I don't understand it well.
-  - I need to scrutinize about it when the 'answer sheet' comes out.
 
 - Assignment4
   - Bayesian Deep Learning
